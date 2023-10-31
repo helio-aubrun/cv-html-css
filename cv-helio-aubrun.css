@@ -1,0 +1,15 @@
+html {background-image: url("https://i.ibb.co/jzfMHKS/background.png");
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center center;
+font-family: sans-serif;
+font-size: 20px;}
+.moi {float: left;}
+#mail {color: black;}
+#LaPlateforme {color: black;}
+#Maristes {color: black;}
+#Cemea {color: black;}
+footer {height: 90px;
+margin: 0;
+background:crimson;
+text-align: center;}
